@@ -82,10 +82,10 @@ endmodule
 
 ~~~
 ## Logic symbol & Truthtable 
-|[gfg](./TT.png)
+![gfg](./TT.png)
 
 ## RTL realization
-|[fghf](./01.png)
+![fghf](./01.png)
 
 
 ## Result:
